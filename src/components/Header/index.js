@@ -12,9 +12,9 @@ const HeaderContainer = styled.header`
 function Header() {
     return (
         <HeaderContainer>
-            <Logo/>
-            <HeaderOptions/>
-            <HeaderIcons/>
+            <Logo />
+            <HeaderOptions />
+            <HeaderIcons />
         </HeaderContainer>
     )
 }
